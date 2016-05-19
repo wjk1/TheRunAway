@@ -1,7 +1,17 @@
 body {
-    background-color: lightpink;
+    background-color: #ff99dd;
+	font-family: 'Dancing Script', cursive;
+
 }
 
+p{
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+}
+a{
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+}
 
 
 
